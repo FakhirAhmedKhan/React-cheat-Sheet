@@ -1,6 +1,4 @@
 ---
-
-````markdown
 # 🚀 Advanced React Learning Guide
 
 Welcome to the **Advanced React Roadmap**, your go-to resource for writing modern, production-grade React applications.
