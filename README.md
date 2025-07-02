@@ -467,7 +467,4 @@ npm start
 ✅ `npm start`
 
 ---
-
 **Happy Reacting!** ⚛️
-
-```
